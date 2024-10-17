@@ -31,6 +31,12 @@
     },
     {
       "id": 6,
+      "name": "Samsung Tab S10 Plus 512gb",
+      "price": 999.99,
+      "image": "https://static1.unieuro.it/medias/sys_master/root/ha6/hde/45561604866078/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-0b518c18085164263f47ecb7efad085c-preview-sgmConversionBaseFormat-sgmProductFormat.jpg"
+    },
+    {
+      "id": 7,
       "name": "Nico",
       "price": 14999.99,
       "image": "https://drive.google.com/uc?id=1Z_DoHHbZKhNrb19H4y-H5vqS8dbTKBAJ"
