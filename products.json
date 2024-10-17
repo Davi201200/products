@@ -3,48 +3,56 @@
       "id": 1,
       "name": "iPhone 16 Pro Max Gold 256gb",
       "price": 999.99,
-      "image": "https://www.phoneshock.it/wp-content/uploads/2024/10/18267084-576x576.jpeg"
+      "image": "https://www.phoneshock.it/wp-content/uploads/2024/10/18267084-576x576.jpeg",
+      "description": "L'ultimo modello di iPhone, con fotocamera potenziata, display OLED, e un'enorme capacità di memoria da 256GB."
     },
     {
       "id": 2,
       "name": "MacBook Pro 16 M3 Pro 1TB",
       "price": 2299.99,
-      "image": "https://cf6.certideal.com/41938-prod_large/macbook-pro-2021-16p-argent.jpg"
+      "image": "https://cf6.certideal.com/41938-prod_large/macbook-pro-2021-16p-argent.jpg",
+      "description": "MacBook Pro con chip M3 Pro, schermo Retina da 16 pollici e 1TB di spazio per prestazioni eccezionali."
     },
     {
-        "id": 3,
-        "name": "GoPro Hero 13 Black 4K/120p",
-        "price": 499.99,
-        "image": "https://static1.unieuro.it/medias/sys_master/root/hca/hea/45519186624542/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-bd69c9ab2065404d1d85594fbcd698bd-preview-sgmConversionBaseFormat-sgmProductFormat.jpg"
+      "id": 3,
+      "name": "GoPro Hero 13 Black 4K/120p",
+      "price": 499.99,
+      "image": "https://static1.unieuro.it/medias/sys_master/root/hca/hea/45519186624542/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-bd69c9ab2065404d1d85594fbcd698bd-preview-sgmConversionBaseFormat-sgmProductFormat.jpg",
+      "description": "Fotocamera GoPro Hero 13 con risoluzione 4K e frame rate a 120fps, perfetta per catturare momenti di azione."
     },
     {
-        "id": 4,
-        "name": "DJI Mini 4 Pro",
-        "price": 1199.99,
-        "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_121299065?x=536&y=402&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=536&ey=402&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=536&cdy=402"
+      "id": 4,
+      "name": "DJI Mini 4 Pro",
+      "price": 1199.99,
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_121299065?x=536&y=402&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=536&ey=402&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=536&cdy=402",
+      "description": "Drone DJI Mini 4 Pro con fotocamera stabilizzata e capacità di registrazione in 4K, ideale per video aerei."
     },
     {
       "id": 5,
-      "name": "Samsung S24 Utra 512gb",
+      "name": "Samsung S24 Ultra 512gb",
       "price": 999.99,
-      "image": "https://www.phoneshock.it/wp-content/uploads/2024/07/15497643-576x576.jpeg"
+      "image": "https://www.phoneshock.it/wp-content/uploads/2024/07/15497643-576x576.jpeg",
+      "description": "Samsung Galaxy S24 Ultra con schermo AMOLED da 6.8 pollici, fotocamera da 108 MP, e memoria da 512GB."
     },
     {
       "id": 6,
       "name": "Samsung Tab S10 Plus 512gb",
       "price": 999.99,
-      "image": "https://static1.unieuro.it/medias/sys_master/root/ha6/hde/45561604866078/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-0b518c18085164263f47ecb7efad085c-preview-sgmConversionBaseFormat-sgmProductFormat.jpg"
+      "image": "https://static1.unieuro.it/medias/sys_master/root/ha6/hde/45561604866078/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-0b518c18085164263f47ecb7efad085c-preview-sgmConversionBaseFormat-sgmProductFormat.jpg",
+      "description": "Tablet Samsung Galaxy Tab S10 Plus con display AMOLED, memoria espandibile fino a 512GB, ideale per produttività e intrattenimento."
     },
     {
       "id": 7,
       "name": "PowerBank 10000mAh",
       "price": 39.99,
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_89118523?x=536&y=402&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=536&ey=402&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=536&cdy=402"
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_89118523?x=536&y=402&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=536&ey=402&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=536&cdy=402",
+      "description": "PowerBank portatile con capacità di 10000mAh, perfetto per ricaricare i tuoi dispositivi ovunque."
     },
     {
       "id": 8,
       "name": "Nico",
       "price": 14999.99,
-      "image": "https://drive.google.com/uc?id=1Z_DoHHbZKhNrb19H4y-H5vqS8dbTKBAJ"
+      "image": "https://drive.google.com/uc?id=1Z_DoHHbZKhNrb19H4y-H5vqS8dbTKBAJ",
+      "description": "Il prodotto premium, dotato di funzionalità straordinarie che non troverai da nessun'altra parte."
     }
-  ]
+]
