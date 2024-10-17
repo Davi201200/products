@@ -25,6 +25,12 @@
     },
     {
       "id": 5,
+      "name": "Samsung S24 Utra 512gb",
+      "price": 999.99,
+      "image": "https://www.phoneshock.it/wp-content/uploads/2024/07/15497643-576x576.jpeg"
+    },
+    {
+      "id": 6,
       "name": "Nico",
       "price": 14999.99,
       "image": "https://drive.google.com/uc?id=1Z_DoHHbZKhNrb19H4y-H5vqS8dbTKBAJ"
